@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x105e31a9e7058c2827cd56f84403f4f9cf1ff7e5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x105e31a9e7058c2827cd56f84403f4f9cf1ff7e5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Boneheadz",
+  "SYMBOL": "Bonez",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bone-headz",
+  "SHOW_BACKGROUND": true
+}
